@@ -26,8 +26,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 ### Links
 
-- Solution URL: [timdash.github.io](https://your-solution-url.com)
-- Live Site URL: [https://dashtime-14d1b.web.app/](https://your-live-site-url.com)
+- Solution URL: [timdash.github.io](timdash.github.io)
+- Live Site URL: [https://dashtime-14d1b.web.app/](https://dashtime-14d1b.web.app/)
 
 ## My process
 
@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - [Styled Components](https://styled-components.com/) - For styles
 ## VITALIS
 
-- Website - [https://dashtime-14d1b.web.app/](https://www.your-site.com)
-- Frontend Mentor - [@svitalis123](https://www.frontendmentor.io/profile/yourusername)
+- Website - [https://dashtime-14d1b.web.app/](https://dashtime-14d1b.web.app/)
+- Frontend Mentor - [@svitalis123](https://www.frontendmentor.io/profile/@svitalis123)
 
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
